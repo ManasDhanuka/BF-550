@@ -1,5 +1,5 @@
 # BF-550
-Collection of Assignments and Project work completed in the course; Foundations of Programming, Data Analytics, and Machine Learning in Python. 
+Repository of assignments and project work completed in the course; Foundations of Programming, Data Analytics, and Machine Learning in Python. 
 
 :file_folder: HW
 - These are all the bi-monthly assignments completed during the course showcasiing fundamentals of programming and proficiency with python and its packages. 
